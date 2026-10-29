@@ -1,4 +1,4 @@
-# Inclusive design guidance for VR XR and augmented reality
+# Inclusive design guidance for VR, XR and Augmented Reality
 
 ## Practical guidance for physical products digital experiences and services
 
