@@ -1,6 +1,6 @@
 # Inclusive design guidance for VR XR and augmented reality
 
-Practical guidance for physical products digital experiences and services
+## Practical guidance for physical products digital experiences and services
 
 28 October 2026
 
