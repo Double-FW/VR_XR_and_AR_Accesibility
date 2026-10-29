@@ -1,4 +1,4 @@
-Inclusive design guidance for VR XR and augmented reality
+# Inclusive design guidance for VR XR and augmented reality
 
 Practical guidance for physical products digital experiences and services
 
@@ -14,7 +14,7 @@ Begin with the principles and evidence boundaries in Chapters 1 and 2. Use Chapt
 
 Recommendations and acceptance criteria are this handbook's synthesis unless explicitly described as a source finding or a standard requirement. They are intended to be adopted and refined for a defined product and audience. They are not claims that every technique has been experimentally validated, nor universal medical or ergonomic limits.
 
-# Contents
+## Contents
 
 Select a chapter or use Word's Navigation Pane. Source identifiers and test numbers throughout the handbook are also linked.
 
